@@ -3,6 +3,8 @@
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-ff69b4.svg)](https://github.com/orgordin/vuejs-avataaars/pulls)
 
 # vuejs-avataaars
+
+
 Simple avatar generator Vue component for avataaars.
 
  [Demo]   http://vuejs-avataaars.surge.sh/
